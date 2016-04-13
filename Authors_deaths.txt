@@ -1,0 +1,2 @@
+authors = ["Charles Dickens", "Jane Austen", "Lewis Carrol]
+ages_at_death = [58, 41, 65]
